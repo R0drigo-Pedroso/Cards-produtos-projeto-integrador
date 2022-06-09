@@ -1,0 +1,10 @@
+.colorCard {
+    background: #EDEDED;
+    color: #4b4b4b;
+}
+
+.colorBottom {
+    background: #00a3ff;
+    text-transform: uppercase;
+    border-radius: 15px;
+}
